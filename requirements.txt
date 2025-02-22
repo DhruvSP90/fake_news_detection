@@ -5,3 +5,4 @@ joblib
 flask-sqlalchemy
 numpy
 nltk
+requests
